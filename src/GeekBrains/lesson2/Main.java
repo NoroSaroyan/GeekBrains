@@ -1,4 +1,4 @@
-package GeekBrains;
+package GeekBrains.lesson2;
 
 public class Main {
 
