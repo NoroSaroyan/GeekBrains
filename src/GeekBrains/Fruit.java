@@ -1,16 +1,12 @@
 package GeekBrains;
 
-public  class Fruit {
+public class Fruit {
 
     public float getWeight() {
         return Weight;
     }
 
-    public void setWeight(float weight) {
-        Weight = weight;
-    }
-
-    public float Weight;
+    private float Weight;
     public Fruit() {
     }
 }
